@@ -1,4 +1,4 @@
-# 🛸 Lumeo GenAI Chatbot
+# 🛸 Lumeo AI Chatbot
 
 Lumeo is a **GenAI-powered chatbot** built with **LangChain**,
 **LangGraph**, and **Streamlit**, designed with a playful personality
@@ -11,13 +11,13 @@ versatile assistant for interactive AI experiences.
 ## ✨ Features
 
 -   🤖 **Conversational AI** powered by [Ollama](https://ollama.com)
-    (Qwen2.5 model by default).\
+    (Qwen2.5 model by default).
 -   🌐 **Web Search Integration** via **Tavily API** or **DuckDuckGo**,
-    with automatic source citations.\
+    with automatic source citations.
 -   🧠 **Memory & Context Management** using LangGraph checkpointing +
-    configurable message trimming.\
+    configurable message trimming.
 -   🎭 **Customizable Personality**: Lumeo responds with chaotic charm,
-    wit, and honesty.\
+    wit, and honesty.
 -   💻 **Streamlit UI** with sidebar controls, chat history, and
     response streaming.
 
@@ -26,12 +26,10 @@ versatile assistant for interactive AI experiences.
 ## 🔧 Tech Stack
 
 -   [LangChain](https://www.langchain.com/) +
-    [LangGraph](https://github.com/langchain-ai/langgraph)\
--   [ChatOllama](https://ollama.com) (Qwen2.5 model)\
--   [Streamlit](https://streamlit.io/)\
--   [Tavily API](https://tavily.com) /
-    [DuckDuckGo](https://duckduckgo.com/) for search\
--   Python utilities: `logging`, `dotenv`, `uuid`
+    [LangGraph](https://github.com/langchain-ai/langgraph)
+-   [ChatOllama](https://ollama.com) (Qwen2.5 model)
+-   [Streamlit](https://streamlit.io/)
+-   [Tavily API](https://tavily.com) for web search
 
 ------------------------------------------------------------------------
 
@@ -98,9 +96,9 @@ This project is licensed under the **MIT License** -- see the
 
 -   [LangChain](https://www.langchain.com/) &
     [LangGraph](https://github.com/langchain-ai/langgraph) for
-    orchestration.\
--   [Streamlit](https://streamlit.io/) for the chat interface.\
--   [Ollama](https://ollama.com) for running local LLMs.\
+    orchestration.
+-   [Streamlit](https://streamlit.io/) for the chat interface.
+-   [Ollama](https://ollama.com) for running local LLMs.
 -   [Tavily](https://tavily.com) and
     [DuckDuckGo](https://duckduckgo.com) for web search integration.
 
