@@ -1,6 +1,6 @@
 # 🛸 Lumeo AI Chatbot
 
-Lumeo is a **GenAI-powered chatbot** built with **LangChain**,
+Lumeo AI is a **GenAI-powered chatbot** built with **LangChain**,
 **LangGraph**, and **Streamlit**, designed with a playful personality
 and real-time information retrieval.\
 It supports **web search** and **conversational memory**, making it a
