@@ -1,6 +1,6 @@
 # 🛸 Lumeo AI Chatbot
 
-Lumeo AI is a **GenAI-powered chatbot** built with **LangChain**,
+Lumeo AI is a **GenAI-powered chatbot** built with **Ollama**, **LangChain**,
 **LangGraph**, and **Streamlit**, designed with a playful personality
 and real-time information retrieval.\
 It supports **web search** and **conversational memory**, making it a
@@ -27,7 +27,7 @@ versatile assistant for interactive AI experiences.
 
 -   [LangChain](https://www.langchain.com/) +
     [LangGraph](https://github.com/langchain-ai/langgraph)
--   [ChatOllama](https://ollama.com) (Qwen2.5 model)
+-   [Ollama](https://ollama.com) (Qwen2.5 model)
 -   [Streamlit](https://streamlit.io/)
 -   [Tavily API](https://tavily.com) for web search
 
